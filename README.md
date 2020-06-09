@@ -1,4 +1,4 @@
-# PW_II_EN16CS30178_Medical-Image-Segmentation
+# PW_II_EN16CS301278_Medical-Image-Segmentation
 Medical Image Segmentation using  deep learning - 
 With a lot of research on this project, the project is being developed with various technologies of Data Learning and Machine Learning.
 As this project requires segmenting the data so for this various segmentation techniques have been studied and
